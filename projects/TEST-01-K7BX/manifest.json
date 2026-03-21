@@ -2,8 +2,8 @@
     "code": "TEST-01",
     "pass": "K7BX",
     "name": "Test Chantier",
-    "version": 2,
-    "updatedAt": "2026-03-17"
+    "version": 3,
+    "updatedAt": "2026-03-21",
     "vues": [
       {
         "id": "vue_01",
