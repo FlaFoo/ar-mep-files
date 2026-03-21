@@ -1,30 +1,20 @@
 {
-  "code": "TEST-01",
-  "name": "Projet de test AR MEP",
-  "version": 2,
-  "updatedAt": "2026-03-17",
-  "metiers": ["CVC", "ELEC", "PLB"],
-  "models": [
-    {
-      "filename": "TEST-01-CVC-2196F3.glb",
-      "metier": "CVC",
-      "color": "2196F3"
-    },
-    {
-      "filename": "TEST-01-ELEC-FFC107.glb",
-      "metier": "ELEC",
-      "color": "FFC107"
-    },
-    {
-      "filename": "TEST-01-PLB-4CAF50.glb",
-      "metier": "PLB",
-      "color": "4CAF50"
-    }
-  ],
-  "targets": [
-    {
-      "file": "target_01_X0_Y0_S50.jpg",
-      "width_cm": 7
-    }
-  ]
-}
+    "code": "TEST-01",
+    "pass": "K7BX",
+    "name": "Test Chantier",
+    "version": 2,
+    "updatedAt": "2026-03-17"
+    "vues": [
+      {
+        "id": "vue_01",
+        "name": "Terrasse tech. CTA",
+        "target": "target_01_X0_Y0_S50.jpg",
+        "widthCm": 10,
+        "models": [
+          "TEST-01-CVC-2196F3.glb",
+          "TEST-01-ELEC-FFC107.glb",
+          "TEST-01-PLB-4CAF50.glb"
+        ]
+      }
+    ]
+  }
