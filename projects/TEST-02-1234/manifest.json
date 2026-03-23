@@ -12,7 +12,7 @@
         "widthCm": 10,
         "models": [
           "TEST-02-CVC-70b0f1.glb",
-          "TEST-02-ELEC-e1e1e1.glb",
+          "TEST-02-ARCHI-e1e1e1.glb",
           "TEST-02-PLB-a170f1.glb"
         ]
       }
