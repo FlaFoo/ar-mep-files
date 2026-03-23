@@ -1,1 +1,20 @@
-
+{
+    "code": "TEST-02",
+    "pass": "1234",
+    "name": "Test Chantier 2",
+    "version": 1,
+    "updatedAt": "2026-03-23",
+    "vues": [
+      {
+        "id": "vue_01",
+        "name": "Terrasse tech. CTA",
+        "target": "target_01_X0_Y0_S50.jpg",
+        "widthCm": 10,
+        "models": [
+          "TEST-02-CVC-70b0f1.glb",
+          "TEST-02-ELEC-e1e1e1.glb",
+          "TEST-02-PLB-a170f1.glb"
+        ]
+      }
+    ]
+  }
