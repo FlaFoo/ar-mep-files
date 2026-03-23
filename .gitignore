@@ -46,3 +46,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Source icon files (local only)
+icon_background.png
+icon_foreground.png
