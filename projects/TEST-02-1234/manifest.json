@@ -11,9 +11,9 @@
         "target": "target_01_X0_Y0_S50.jpg",
         "widthCm": 10,
         "models": [
-          "TEST-02-CVC-70b0f1.glb",
+          "TEST-02-CVC-a170f1.glb",
           "TEST-02-ARCHI-e1e1e1.glb",
-          "TEST-02-PLB-a170f1.glb"
+          "TEST-02-PB-70b0f1.glb"
         ]
       }
     ]
